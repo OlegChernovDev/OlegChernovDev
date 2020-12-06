@@ -2,8 +2,6 @@
 
 Hi. I'm a regular web developer from Russia. I do all sorts of pet projects.
 
-Привет. Я обычный веб разработчик из России. Делаю всякие маленькие проектики.
-
 <!--
 **OlegChernovDev/OlegChernovDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
