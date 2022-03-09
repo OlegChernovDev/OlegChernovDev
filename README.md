@@ -2,6 +2,8 @@
 
 Hi. I'm a regular web developer from Russia. I do all sorts of pet projects.
 
+[Пацанский кликер](https://yandex.ru/games/app/97415)
+[Пиксельная рулетка](https://yandex.ru/games/app/161678)
 <!--
 **OlegChernovDev/OlegChernovDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
