@@ -6,6 +6,7 @@ Some of my projects:
 
 - [Пацанский кликер](https://yandex.ru/games/app/97415)
 - [Пиксельная рулетка](https://yandex.ru/games/app/161678)
+- Telegram Channel: [Web Notes](https://t.me/notes_of_web)
 <!--
 **OlegChernovDev/OlegChernovDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
